@@ -71,3 +71,16 @@ The implementation differs substantially, but the same six-part shape remains vi
 **Heartbeat → Reach → Loop → Spine → Gate → Body**
 
 The comparison is therefore about the **harness and its capabilities**, not simply about which model produced the text.
+---
+
+### Comparison of the three harnesses
+
+![Project screenshot](./img_3.png)
+
+### Claude Code / VS Code GitHub Copilot Agent
+
+*Instruction → Agent reasoning → filesystem reach → create files → read/verify → report result*
+
+### Plain GPT
+
+*Instruction → Agent reasoning → generated the requested content → human performed the filesystem operation → result*
